@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Generation Bridge (GenB) Skills",
+    "title": "AI & Machine Learning Fundamentals",
+    "price": "R4,500 - R8,000",
+    "duration": "2 Weeks",
+    "description": "Introduces neural networks, data modeling, and AI tools like Gemini to transform daily work."
+  },
+  {
+    "category": "Generation Bridge (GenB) Skills",
+    "title": "Cloud Infrastructure Management (AWS/Azure)",
+    "price": "R5,000 - R9,500",
+    "duration": "3 Weeks",
+    "description": "Essential training on data storage, scaling applications, and managing cloud resources."
+  },
+  {
+    "category": "Generation Bridge (GenB) Skills",
+    "title": "Cybersecurity & Ethical Hacking",
+    "price": "R4,000 - R7,500",
+    "duration": "2 Weeks",
+    "description": "Digital hygiene, threat identification, password management, and data protection."
+  },
+  {
+    "category": "Generation Bridge (GenB) Skills",
+    "title": "Data Science & Visualization (Python/R)",
+    "price": "R6,000 - R11,000",
+    "duration": "4 Weeks",
+    "description": "Clean, analyze, and visually present large datasets to inform business decisions."
+  },
+  {
+    "category": "Generation Bridge (GenB) Skills",
+    "title": "Front-End Web Development (React/Angular)",
+    "price": "R7,000 - R13,000",
+    "duration": "5 Weeks",
+    "description": "Building modern, responsive user interfaces for web-based products."
+  },
+  {
+    "category": "Workplace Foundation (WorkF) Skills",
+    "title": "Occupational Risk Assessment (HIRA)",
+    "price": "R900 - R5,500",
+    "duration": "1-3 Days",
+    "description": "Identify, categorize, and mitigate physical and procedural hazards (Safety Compliance)."
+  },
+  {
+    "category": "Workplace Foundation (WorkF) Skills",
+    "title": "Basic Computer Literacy & Digital Fundamentals",
+    "price": "R500 - R6,000",
+    "duration": "1 Week",
+    "description": "OS basics, file management, email etiquette, and MS Office/Google Workspace."
+  },
+  {
+    "category": "Workplace Foundation (WorkF) Skills",
+    "title": "Professional Business Writing & Communication",
+    "price": "R4,000 - R7,000",
+    "duration": "1-2 Days",
+    "description": "Clarity, brevity, and professionalism in business documents and reports."
+  },
+  {
+    "category": "Workplace Foundation (WorkF) Skills",
+    "title": "Workplace First Aid & CPR (Level 1)",
+    "price": "R1,100 - R1,500",
+    "duration": "2 Days",
+    "description": "Immediate life-saving skills meeting health and safety requirements."
+  },
+  {
+    "category": "Workplace Foundation (WorkF) Skills",
+    "title": "Personal Financial Literacy & Budgeting",
+    "price": "R500 - R3,000",
+    "duration": "1 Day",
+    "description": "Budgeting, managing debt, and savings principles for employee wellness."
+  }
+]
