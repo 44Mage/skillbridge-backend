@@ -15,7 +15,7 @@ google-auth==2.43.0
 google-auth-httplib2==0.2.1
 google-generativeai==0.8.5
 googleapis-common-protos==1.72.0
-grpcio @ file:///home/runner/.termux-build/python-grpcio/src
+grpcio
 grpcio-status==1.71.2
 gunicorn==23.0.0
 httplib2==0.31.0
