@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Rossman Walker Of Code**
+**Joe Codewalker Baloyi**
 *   *Architect of The Skill Bridge*
 *   *Caretaker of GenB*
 
